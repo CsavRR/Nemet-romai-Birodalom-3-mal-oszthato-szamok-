@@ -23,7 +23,10 @@ namespace oszthato3_mal
                 }
             
             }
+            Console.WriteLine("Megnyitottam a tanirodában a kódot. ÁÁÁÁÁÁ");
             Console.ReadKey();
+
+           
         
         }
     }
