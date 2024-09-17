@@ -1,0 +1,7 @@
+C:\Users\c1flelaj\source\repos\Nemet-romai-Birodalom-3-mal-oszthato-szamok-\oszthato3-mal\oszthato3-mal\bin\Debug\oszthato3-mal.exe.config
+C:\Users\c1flelaj\source\repos\Nemet-romai-Birodalom-3-mal-oszthato-szamok-\oszthato3-mal\oszthato3-mal\bin\Debug\oszthato3-mal.exe
+C:\Users\c1flelaj\source\repos\Nemet-romai-Birodalom-3-mal-oszthato-szamok-\oszthato3-mal\oszthato3-mal\bin\Debug\oszthato3-mal.pdb
+C:\Users\c1flelaj\source\repos\Nemet-romai-Birodalom-3-mal-oszthato-szamok-\oszthato3-mal\oszthato3-mal\obj\Debug\oszthato3-mal.csproj.AssemblyReference.cache
+C:\Users\c1flelaj\source\repos\Nemet-romai-Birodalom-3-mal-oszthato-szamok-\oszthato3-mal\oszthato3-mal\obj\Debug\oszthato3-mal.csproj.CoreCompileInputs.cache
+C:\Users\c1flelaj\source\repos\Nemet-romai-Birodalom-3-mal-oszthato-szamok-\oszthato3-mal\oszthato3-mal\obj\Debug\oszthato3-mal.exe
+C:\Users\c1flelaj\source\repos\Nemet-romai-Birodalom-3-mal-oszthato-szamok-\oszthato3-mal\oszthato3-mal\obj\Debug\oszthato3-mal.pdb
